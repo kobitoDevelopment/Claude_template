@@ -2,8 +2,7 @@
   "enableAllProjectMcpServers": true,
   "enabledMcpjsonServers": [
     "context7",
-    "playwright",
-    "chrome-devtools"
+    "playwright"
   ],
   "$schema": "https://json.schemastore.org/claude-code-settings.json"
 }
